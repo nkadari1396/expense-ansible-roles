@@ -1,2 +1,4 @@
  mysql_root_password: ExpenseAPP@1
  login_host: mysql.naveenkadari.com
+ app_location: /app
+ component: backend
